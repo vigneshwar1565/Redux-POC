@@ -1,0 +1,23 @@
+.app {
+    width: 80%;
+    height: 80%;
+    position: relative;
+    border: 3px solid green;
+}
+
+.count{
+    left: 48%;
+    top: 10%;
+    position: relative;
+}
+
+button {
+margin: 40%;
+position: relative;
+}
+
+.component {
+    display: flex;
+    color: red;
+    flex-flow: column;
+}
